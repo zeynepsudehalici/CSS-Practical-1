@@ -1,0 +1,35 @@
+.h1 {
+    color: rgba(253, 150, 239, 0.932) ;
+    font-size: 60px ;   }
+
+.h2 {
+    color:rgb(146, 62, 241) ;}
+
+.h3 {
+    color: rgb(226, 147, 250) ;
+    font-style: italic; }
+
+.link {
+    color: rgb(55, 149, 189) ;
+    font-size: 20px ;}
+
+.a-p1 {
+    font-size: 22px ;
+    font-style: italic; }
+
+.a-p2 {
+    font-size: 18px ;}
+
+.img {
+    text-align: center;
+    width: 300px;
+    height: 300px; }
+
+.ü-p1 {
+    font-size: 18px ;
+    font-style: italic; }
+
+.h-p1 {
+        font-size: 18px ;
+        font-style: italic; 
+        color:rgb(146, 62, 241) }
